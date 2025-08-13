@@ -66,10 +66,10 @@
 ---
 
 ## 🐍 Snake Animation
-
 <p align="center">
   <img src="https://github.com/Zuhaib-dev/Zuhaib-dev/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
