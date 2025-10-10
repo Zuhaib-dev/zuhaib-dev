@@ -51,7 +51,7 @@
   <a href="https://x.com/xuhaibx9" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a http://zuhaibrashid.com/" target="_blank">
+  <a href="http://zuhaibrashid.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
