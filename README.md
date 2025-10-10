@@ -26,7 +26,7 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Carepulse** | Hospital Management Web App for 100+ daily users | React.js, Zustand, TypeScript, Appwrite, Twilio | [Live](https://github.com/Zuhaib-dev/HMS) |
+| **Carepulse** | Hospital Management Web App for 100+ daily users | React.js, Zustand, TypeScript, Appwrite, Twilio | [Live](https://github.com/Zuhaib-dev/HMS) • [code](https://github.com/Zuhaib-dev/HMS)  |
 | **Klimate** | Real-time Weather Analytics App | React, TypeScript, Recharts, TanStack Query | [Live](https://kilamate.netlify.app/) • [Code](https://github.com/Zuhaib-dev/Kilamate) |
 | **Resumind** | AI-Powered Resume Analyzer | Next.js, Zustand, TypeScript, Cypress | [Live](https://resumind-ebon.vercel.app/) • [Code](https://github.com/Zuhaib-dev/Resumind) |
 
