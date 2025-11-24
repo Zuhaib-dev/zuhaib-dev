@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://zuhaib-portfolio-tau.vercel.app/" target="_blank">Zuhaib Rashid</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://www.zuhaibrashid.com/" target="_blank">Zuhaib Rashid</a> 👋</h1>
 <h3 align="center">Frontend Developer | React.js Expert | TypeScript Proficient</h3>
 
 <p align="center">
