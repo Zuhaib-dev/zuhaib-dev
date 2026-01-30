@@ -9,6 +9,10 @@
   <a href="http://zuhaibrashid.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHh6bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Coding GIF">
+</p>
+
 ---
 
 ### 🧑‍💻 Quick Bits
@@ -35,14 +39,23 @@
 
 ---
 
-### 📈 Detailed Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaib-dev&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
+### 📈 GitHub Ecosystem Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&include_all_commits=true" alt="Zuhaib's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaib-dev&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="41%" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuhaib-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="90%" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuhaib-dev&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Zuhaib-dev&theme=tokyonight&no-bg=true&margin-w=15" alt="Zuhaib's Trophies" />
 </p>
 
 ---
