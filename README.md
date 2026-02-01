@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zuhaib-rashid-661345318/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/xuhaibx9" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23181717.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/xuhaib_x9" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23181717.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="http://zuhaibrashid.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
