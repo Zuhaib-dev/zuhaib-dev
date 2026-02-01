@@ -78,7 +78,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/zuhaib-rashid-661345318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zuhaibrashid" height="30" width="40" /></a>
 <a href="https://x.com/xuhaib_x9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zuhaibrashid" height="30" width="40" /></a>
-<a href="https://instagram.com/zuhaib.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zuhaibrashid" height="30" width="40" /></a>
+<a href="https://www.instagram.com/zoh.aib__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zuhaibrashid" height="30" width="40" /></a>
 </p>
 
 <p align="center">
