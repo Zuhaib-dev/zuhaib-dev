@@ -68,7 +68,7 @@
 
 | Project | Description | Tech Stack | Links |
 |:---|:---|:---|:---|
-| **Carepulse** | Hospital Management System | `React` `Zustand` `Appwrite` | [Live](https://github.com/Zuhaib-dev/HMS) |
+| **Carepulse** | Hospital Management System | `React` `Zustand` `Appwrite` | [Live](https://hms-seven-green.vercel.app/U) |
 | **Klimate** | Real-time Weather Analytics | `React` `TanStack Query` `Recharts` | [Live](https://kilamate.netlify.app/) |
 | **Resumind** | AI-Powered Resume Analyzer | `Next.js` `TypeScript` `Cypress` | [Live](https://resumind-ebon.vercel.app/) |
 
