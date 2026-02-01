@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHh6bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Coding GIF">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR6bm0xbW90N3RyeGZueG96Z3F6bnhueG96Z3F6bnhueG96Z3F6bnZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L18lsOnN6mB9C49603/giphy.gif" width="600" alt="Coding GIF">
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 My GitHub Contributions
+### 📊 GitHub Activity Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zuhaib-dev/Zuhaib-dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zuhaib-dev/Zuhaib-dev/output/github-contribution-grid-snake.svg">
@@ -41,21 +41,25 @@
 
 ### 📈 GitHub Ecosystem Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&include_all_commits=true" alt="Zuhaib's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaib-dev&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Zuhaib's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaib-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="41%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuhaib-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuhaib-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Profile Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zuhaib-dev&theme=tokyonight&no-bg=true&margin-w=15" alt="Zuhaib's Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zuhaib-dev&theme=tokyonight" alt="Detailed Summary" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zuhaib-dev&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="Zuhaib's Trophies" />
 </p>
 
 ---
@@ -70,6 +74,17 @@
 
 ---
 
+### 🤝 Let's Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/zuhaib-rashid-661345318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zuhaibrashid" height="30" width="40" /></a>
+<a href="https://twitter.com/xuhaibx9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zuhaibrashid" height="30" width="40" /></a>
+<a href="https://instagram.com/zuhaib.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zuhaibrashid" height="30" width="40" /></a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zuhaib-dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </p>
