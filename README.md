@@ -1,119 +1,97 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    @zuhaib-dev · github profile                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:09090b,100:00ff87&height=200&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2500&pause=1000&color=00FF87&center=true&vCenter=true&width=800&height=60&lines=Hi,+I'm+Zuhaib+Rashid_;&gt;_Frontend+Developer_;&gt;_React+%26+Next.js+Specialist_;&gt;_Building+interfaces+that+feel+alive_" alt="Typing SVG" />
+# ✦ Zuhaib Rashid ✦
+**Frontend Engineer | React & Next.js Specialist | UI/UX Enthusiast**
 
 <br/>
 
 <p align="center">
   <a href="https://www.zuhaibrashid.com/">
-    <img src="https://img.shields.io/badge/portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=00ff87" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/zuhaib-rashid-661345318/">
-    <img src="https://img.shields.io/badge/linkedin-09090b?style=for-the-badge&logo=linkedin&logoColor=00ff87" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/xuhaib_x9">
-    <img src="https://img.shields.io/badge/twitter-09090b?style=for-the-badge&logo=x&logoColor=00ff87" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<p align="center">
-  <em>crafting pixel-perfect web experiences from kashmir, india 🏔️</em>
-</p>
+*Crafting scalable, high-performance web applications with a relentless focus on pixel-perfect design and fluid user experiences.*
 
 </div>
 
 <br/><br/>
 
-### ⚡ `> cat about_me.sh`
+## ✦ Overview
+I am a frontend developer based in Kashmir, India. I specialize in building complex, data-rich applications and translating design systems into functional, accessible components.
 
-```bash
-#!/bin/bash
-export ROLE="Frontend Developer"
-export FOCUS="React, Next.js, and scalable UI architecture"
-export USERS_IMPACTED="400+"
-export PASSION="60fps animations and clean, maintainable code"
-
-echo "Currently building SaaS products from scratch and exploring"
-echo "the intersection of AI and beautiful user interfaces."
-```
-
-<br/><br/>
-
-### 🛠️ `> ls -la /skills`
-
-<div align="center">
+- 🚀 Apps I've built are used by **400+ users** in production.
+- ⚛️ Deep expertise in **React, Next.js, and State Management** (Zustand, Redux).
+- 🎨 Passionate about **Motion Design** (Framer Motion, GSAP) and **TailwindCSS**.
+- 🧠 Currently focused on **System Architecture** and **AI Integration**.
 
 <br/>
 
-**Languages & Core** <br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-09090b?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-09090b?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-09090b?style=flat-square&logo=css3&logoColor=1572B6)
-
-<br/><br/>
-
-**Frontend Frameworks** <br/>
-![React](https://img.shields.io/badge/React-09090b?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-09090b?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-09090b?style=flat-square&logo=redux&logoColor=764ABC)
-![Zustand](https://img.shields.io/badge/Zustand-09090b?style=flat-square&logo=react&logoColor=00ff87)
-
-<br/><br/>
-
-**Styling & Motion** <br/>
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-09090b?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Sass](https://img.shields.io/badge/Sass-09090b?style=flat-square&logo=sass&logoColor=CC6699)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-09090b?style=flat-square&logo=framer&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-09090b?style=flat-square&logo=shadcnui&logoColor=white)
-
-<br/><br/>
-
-**Backend & Tools** <br/>
-![Node.js](https://img.shields.io/badge/Node.js-09090b?style=flat-square&logo=nodedotjs&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/MongoDB-09090b?style=flat-square&logo=mongodb&logoColor=47A248)
-![Git](https://img.shields.io/badge/Git-09090b?style=flat-square&logo=git&logoColor=F05032)
-![Vite](https://img.shields.io/badge/Vite-09090b?style=flat-square&logo=vite&logoColor=646CFF)
-![Figma](https://img.shields.io/badge/Figma-09090b?style=flat-square&logo=figma&logoColor=F24E1E)
-
-</div>
-
-<br/><br/>
-
-### 🚀 `> cd /projects && ls`
-
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **🏥 Carepulse** | Hospital Management System with real-time scheduling & patient tracking | `React` `Zustand` `Tailwind` | [![Live](https://img.shields.io/badge/Live-00ff87?style=flat-square&logoColor=000&color=09090b)](https://www.zuhaibrashid.com/) [![Code](https://img.shields.io/badge/Code-white?style=flat-square&logoColor=000&color=09090b)](#) |
-| **🌦️ Klimate** | Weather Analytics Dashboard featuring beautiful data visualizations | `React` `React Query` | [![Live](https://img.shields.io/badge/Live-00ff87?style=flat-square&logoColor=000&color=09090b)](https://www.zuhaibrashid.com/) [![Code](https://img.shields.io/badge/Code-white?style=flat-square&logoColor=000&color=09090b)](#) |
-| **🤖 Resumind** | AI-Powered Resume Analyzer providing intelligent feedback and scoring | `Next.js` `TypeScript` `AI` | [![Live](https://img.shields.io/badge/Live-00ff87?style=flat-square&logoColor=000&color=09090b)](https://www.zuhaibrashid.com/) [![Code](https://img.shields.io/badge/Code-white?style=flat-square&logoColor=000&color=09090b)](#) |
-
-<br/><br/>
-
-### 📊 `> htop --user zuhaib`
+## ✦ Technical Arsenal
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Zuhaib-dev&show_icons=true&count_private=true&hide_border=true&bg_color=09090b&title_color=00ff87&icon_color=00ff87&text_color=9ca3af&ring_color=00ff87"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaib-dev&layout=compact&hide_border=true&bg_color=09090b&title_color=00ff87&text_color=9ca3af&langs_count=6"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Zuhaib-dev&hide_border=true&background=09090b&stroke=09090b&ring=00ff87&fire=00ff87&currStreakLabel=00ff87&currStreakNum=9ca3af&sideNums=9ca3af&dates=6b7280&sideLabels=9ca3af" width="70%"/>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,sass,redux,nodejs,mongodb,git,figma,vite&perline=14" />
+  </a>
 </div>
 
 <br/><br/>
 
-### 🐍 `> tail -f contributions.log`
+## ✦ Selected Work
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Carepulse</h3>
+      <p>Comprehensive Hospital Management System featuring real-time scheduling, patient tracking, and administrative dashboards.</p>
+      <p><code>React</code> <code>Zustand</code> <code>Tailwind</code></p>
+      <a href="#"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=fff" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Source-333?style=flat-square&logo=github&logoColor=fff" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌦️ Klimate</h3>
+      <p>Advanced Weather Analytics Dashboard with data visualizations, location-based search, and 5-day forecasts.</p>
+      <p><code>React</code> <code>React Query</code> <code>Recharts</code></p>
+      <a href="#"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=fff" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Source-333?style=flat-square&logo=github&logoColor=fff" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Resumind</h3>
+      <p>AI-Powered Resume Analyzer providing intelligent feedback, semantic scoring, and actionable improvement suggestions.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>OpenAI</code></p>
+      <a href="#"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=fff" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Source-333?style=flat-square&logo=github&logoColor=fff" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>...</h3>
+      <p>I am continuously building and experimenting. Check out my repositories for more open-source projects.</p>
+      <br/>
+      <a href="https://github.com/Zuhaib-dev?tab=repositories"><img src="https://img.shields.io/badge/View_All_Projects-000?style=flat-square&logo=github&logoColor=fff" /></a>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+## ✦ Metrics & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=8b949e" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaib-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e" height="160"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Zuhaib-dev/Zuhaib-dev/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
@@ -121,16 +99,11 @@ echo "the intersection of AI and beautiful user interfaces."
 
 <br/><br/>
 
+---
+
 <div align="center">
-
-**Let's build something epic.**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Zuhaib-dev&color=00ff87&style=flat-square&label=profile+views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:09090b,100:000000&height=150&section=footer&text=&fontSize=0&animation=fadeIn" width="100%"/>
-
+  <br/>
+  <p>Available for freelance opportunities and full-time roles.</p>
+  <img src="https://komarev.com/ghpvc/?username=Zuhaib-dev&color=000000&style=flat-square&label=PROFILE%20VIEWS&labelColor=ffffff"/>
+  <br/><br/>
 </div>
