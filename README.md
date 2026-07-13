@@ -1,7 +1,6 @@
 <div align="center">
 
-# ✦ Zuhaib Rashid ✦
-**Frontend Engineer | React & Next.js Specialist | UI/UX Enthusiast**
+<img src="./banner.svg" alt="Zuhaib Rashid Banner" width="100%" />
 
 <br/>
 
