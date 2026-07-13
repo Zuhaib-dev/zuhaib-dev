@@ -1,17 +1,14 @@
 const fs = require('fs');
-const https = require('https');
 
 const AVATAR_URL = 'https://github.com/Zuhaib-dev.png?size=200';
 
-https.get(AVATAR_URL, (res) => {
-  let data = [];
-
-  res.on('data', (chunk) => {
-    data.push(chunk);
-  });
-
-  res.on('end', () => {
-    const buffer = Buffer.concat(data);
+async function generate() {
+  try {
+    const response = await fetch(AVATAR_URL);
+    if (!response.ok) throw new Error(`Failed to fetch avatar: ${response.statusText}`);
+    
+    const arrayBuffer = await response.arrayBuffer();
+    const buffer = Buffer.from(arrayBuffer);
     const base64Image = buffer.toString('base64');
     
     const svg = `
@@ -200,7 +197,9 @@ https.get(AVATAR_URL, (res) => {
     
     fs.writeFileSync('banner.svg', svg.trim());
     console.log('banner.svg generated with crazy HUD effect!');
-  });
-}).on('error', (err) => {
-  console.error('Error fetching avatar:', err.message);
-});
+  } catch (err) {
+    console.error('Error fetching avatar:', err.message);
+  }
+}
+
+generate();
