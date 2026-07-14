@@ -54,7 +54,7 @@ I am a frontend developer based in Kashmir, India. I specialize in building comp
       <p>Comprehensive Hospital Management System featuring real-time scheduling, patient tracking, and administrative dashboards.</p>
       <p><code>React</code> <code>Zustand</code> <code>Tailwind</code></p>
       <a href="https://hms-seven-green.vercel.app/"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=fff" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Source-333?style=flat-square&logo=github&logoColor=fff" /></a>
+      <a href="https://github.com/Zuhaib-dev/Carepulse"><img src="https://img.shields.io/badge/Source-333?style=flat-square&logo=github&logoColor=fff" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌦️ Klimate</h3>
