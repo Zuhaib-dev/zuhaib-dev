@@ -60,7 +60,7 @@ I am a frontend developer based in Kashmir, India. I specialize in building comp
       <h3>🌦️ Klimate</h3>
       <p>Advanced Weather Analytics Dashboard with data visualizations, location-based search, and 5-day forecasts.</p>
       <p><code>React</code> <code>React Query</code> <code>Recharts</code></p>
-      <a href="https://k.netlify.app/"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=fff" /></a>
+      <a href="https://kilamate.netlify.app/"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=fff" /></a>
       <a href="https://github.com/Zuhaib-dev/Klimate"><img src="https://img.shields.io/badge/Source-333?style=flat-square&logo=github&logoColor=fff" /></a>
     </td>
   </tr>
