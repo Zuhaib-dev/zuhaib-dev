@@ -69,7 +69,7 @@ I am a frontend developer based in Kashmir, India. I specialize in building comp
       <h3>🤖 Resumind</h3>
       <p>AI-Powered Resume Analyzer providing intelligent feedback, semantic scoring, and actionable improvement suggestions.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>OpenAI</code></p>
-      <a href="https://resumind.netlify.app/"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=fff" /></a>
+      <a href=""><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=fff" /></a>
       <a href="https://github.com/Zuhaib-dev/Resumind"><img src="https://img.shields.io/badge/Source-333?style=flat-square&logo=github&logoColor=fff" /></a>
     </td>
     <td width="50%" valign="top">
