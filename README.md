@@ -1,55 +1,65 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Zuhaib Rashid Banner" width="100%" />
+<!-- Animated typing header — no boring banners here -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Zuhaib+Rashid;I+turn+caffeine+into+production+code+%E2%98%95" alt="Typing SVG" />
 
 <br/>
 
-# Zuhaib Rashid
-
-### `Fullstack Developer` · `System Thinker` · `UI Perfectionist`
+```js
+// WARNING: Reading this README may cause spontaneous urge to collaborate
+const zuhaib = {
+    pronouns: "he" | "him",
+    location: "Kashmir, India 🏔️",
+    role: "Fullstack Developer",
+    superpower: "Turning 'it works on my machine' into 'it works everywhere'",
+    currentMood: "debugging something that worked 5 minutes ago",
+};
+```
 
 <br/>
 
-<p align="center">
-  <a href="https://www.zuhaibrashid.com/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/zuhaib-rashid-661345318/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/xuhaib_x9">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-*Building end-to-end, production-grade web applications — from database schema to pixel-perfect UI — with obsessive attention to performance, real-time systems, and developer experience.*
+<a href="https://www.zuhaibrashid.com/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/zuhaib-rashid-661345318/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/xuhaib_x9">
+  <img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
-<br/><br/>
+<br/>
 
-## ✦ Overview
+## 🧑‍💻 `whoami`
 
-I am a **Fullstack Developer** based in Kashmir, India. I architect and ship complete web applications — APIs, databases, real-time systems, and polished frontends — with a focus on scalability, type safety, and buttery-smooth user experiences.
+> *"Any sufficiently advanced developer is indistinguishable from a wizard with a keyboard."*
 
-- 🚀 Apps I've built are used by **400+ users** in production.
-- 🧱 Fullstack expertise across the **MERN stack** (MongoDB, Express, React, Node.js).
-- ⚛️ Deep knowledge of **React, Next.js**, and modern state management (**Zustand**, Redux).
-- 🔌 Experience building **real-time features** with **Socket.io** and caching with **Redis**.
-- 📊 Proficient with **TanStack Query & Table** for data-heavy, server-synced interfaces.
-- 🎨 Passionate about **Motion Design** (Framer Motion, GSAP) and **TailwindCSS**.
-- 🔒 Strong focus on **TypeScript** across the entire stack for end-to-end type safety.
-- 🧠 Currently exploring **System Architecture**, **AI Integration**, and **DevOps**.
+I'm a **Fullstack Developer** from **Kashmir, India** 🏔️ who builds end-to-end, production-grade web applications — from database schemas to pixel-perfect UIs — with an unhealthy obsession for performance, type safety, and smooth animations.
+
+**The highlight reel:**
+
+- 🚀 Apps I've built serve **400+ real users** in production *(they haven't complained... much)*
+- 🧱 **MERN Stack** enthusiast — MongoDB, Express, React, Node.js is my bread & butter
+- ⚛️ Deep into **React, Next.js**, and modern state management (**Zustand**, Redux Toolkit)
+- 🔌 Built **real-time features** with **Socket.io** & turbocharged apps with **Redis** caching
+- 📊 Wrangling complex data with **TanStack Query & Table** like a spreadsheet sorcerer
+- 🎨 Animation nerd — **Framer Motion** & **GSAP** make my UIs feel *alive*
+- 🔒 **TypeScript everywhere** — because `any` is not a personality trait
+- 🧠 Currently exploring **System Architecture**, **AI Integration**, and **DevOps**
 
 <br/>
 
-## ✦ Technical Arsenal
+## ⚡ Tech Stack
+
+*or as I like to call it: "things I mass-import at 2 AM"*
 
 <details open>
-<summary><b>🎨 Frontend</b></summary>
+<summary><b>🎨 Frontend — Where the pixels live</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -67,7 +77,7 @@ I am a **Fullstack Developer** based in Kashmir, India. I architect and ship com
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Database</b></summary>
+<summary><b>⚙️ Backend & Database — Where the magic actually happens</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -83,7 +93,7 @@ I am a **Fullstack Developer** based in Kashmir, India. I architect and ship com
 </details>
 
 <details open>
-<summary><b>📦 State Management & Data Fetching</b></summary>
+<summary><b>📦 State Management & Data — Taming the chaos</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
@@ -97,7 +107,7 @@ I am a **Fullstack Developer** based in Kashmir, India. I architect and ship com
 </details>
 
 <details open>
-<summary><b>🛠️ DevOps & Tools</b></summary>
+<summary><b>🛠️ DevOps & Tools — The utility belt</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -112,92 +122,159 @@ I am a **Fullstack Developer** based in Kashmir, India. I architect and ship com
 </p>
 </details>
 
-<br/><br/>
+<br/>
 
-## ✦ What I Build With
+## 🏗️ How I Build Things
 
 ```
- ┌─────────────────────────────────────────────────────────────────────┐
- │                         FULLSTACK WORKFLOW                         │
- ├──────────────────┬──────────────────┬───────────────────────────────┤
- │    FRONTEND      │    BACKEND       │    INFRA & DX                │
- │                  │                  │                              │
- │  React / Next.js │  Node / Express  │  Docker · Vercel             │
- │  TypeScript      │  MongoDB / PG    │  Redis · Socket.io           │
- │  TailwindCSS     │  Prisma / ODM    │  GitHub Actions              │
- │  Framer Motion   │  REST APIs       │  Vite · ESLint               │
- │  Zustand / RTK   │  Auth (JWT)      │  Postman · Figma             │
- │  TanStack Q / T  │  Redis Caching   │  Zod Validation              │
- └──────────────────┴──────────────────┴───────────────────────────────┘
+                        ╔══════════════════════════════════════════╗
+                        ║     ZUHAIB'S FULLSTACK ARCHITECTURE     ║
+                        ╚══════════════════════════════════════════╝
+
+   ┌──────────────────────────────────────────────────────────────────────┐
+   │                          🌐 CLIENT LAYER                           │
+   │                                                                     │
+   │   React / Next.js  ·  TypeScript  ·  TailwindCSS  ·  Framer Motion │
+   │   Zustand / RTK  ·  TanStack Query & Table  ·  Shadcn/ui           │
+   └──────────────────────────────┬───────────────────────────────────────┘
+                                  │  REST / WebSocket
+                                  ▼
+   ┌──────────────────────────────────────────────────────────────────────┐
+   │                          🔧 SERVER LAYER                           │
+   │                                                                     │
+   │   Node.js / Express  ·  JWT Auth  ·  Socket.io  ·  Zod Validation  │
+   │   Redis Caching  ·  Rate Limiting  ·  Error Handling                │
+   └──────────────────────────────┬───────────────────────────────────────┘
+                                  │  ORM / ODM
+                                  ▼
+   ┌──────────────────────────────────────────────────────────────────────┐
+   │                          💾 DATA LAYER                              │
+   │                                                                     │
+   │   MongoDB / Mongoose  ·  PostgreSQL / Prisma  ·  Redis              │
+   └──────────────────────────────────────────────────────────────────────┘
+                                  │
+                                  ▼
+   ┌──────────────────────────────────────────────────────────────────────┐
+   │                       🚀 DEPLOYMENT                                 │
+   │                                                                     │
+   │   Docker  ·  Vercel  ·  GitHub Actions  ·  CI/CD                    │
+   └──────────────────────────────────────────────────────────────────────┘
 ```
 
-<br/><br/>
+<br/>
 
-## ✦ Selected Work
+## 🏆 Featured Projects
 
-<table bordercolor="#30363d">
+*a.k.a. "things I'm not embarrassed to show my parents"*
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏥 Carepulse</h3>
-      <p>Comprehensive Hospital Management System featuring real-time scheduling, patient tracking, role-based dashboards, and Socket.io powered live updates.</p>
-      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Zustand</code> <code>Socket.io</code> <code>TailwindCSS</code></p>
-      <a href="https://hms-seven-green.vercel.app/"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=fff" /></a>
-      <a href="https://github.com/Zuhaib-dev/Carepulse"><img src="https://img.shields.io/badge/Source-333?style=flat-square&logo=github&logoColor=fff" /></a>
+      <p><b>Hospital Management System</b></p>
+      <p>Real-time scheduling, patient tracking, role-based dashboards, and Socket.io powered live updates. The app that made me question my sanity — and then ship it anyway.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white"/>
+      </p>
+      <a href="https://hms-seven-green.vercel.app/"><img src="https://img.shields.io/badge/▸_Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/Zuhaib-dev/Carepulse"><img src="https://img.shields.io/badge/▸_Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌦️ Klimate</h3>
-      <p>Advanced Weather Analytics Dashboard with interactive data visualizations, geolocation search, 5-day forecasts, and server-state caching.</p>
-      <p><code>React</code> <code>TanStack Query</code> <code>Recharts</code> <code>TypeScript</code></p>
-      <a href="https://kilamate.netlify.app/"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=fff" /></a>
-      <a href="https://github.com/Zuhaib-dev/Kilamate"><img src="https://img.shields.io/badge/Source-333?style=flat-square&logo=github&logoColor=fff" /></a>
+      <p><b>Weather Analytics Dashboard</b></p>
+      <p>Interactive data visualizations, geolocation search, 5-day forecasts, and server-state caching. Because checking the weather should feel like a premium experience.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+      <a href="https://kilamate.netlify.app/"><img src="https://img.shields.io/badge/▸_Live_Demo-FF5722?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+      <a href="https://github.com/Zuhaib-dev/Kilamate"><img src="https://img.shields.io/badge/▸_Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 Resumind</h3>
-      <p>AI-Powered Resume Analyzer providing intelligent feedback, semantic scoring, and actionable improvement suggestions powered by OpenAI.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>OpenAI</code> <code>TailwindCSS</code></p>
-      <a href="https://resumind-ebon.vercel.app/"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=fff" /></a>
-      <a href="https://github.com/Zuhaib-dev/Resumind"><img src="https://img.shields.io/badge/Source-333?style=flat-square&logo=github&logoColor=fff" /></a>
+      <p><b>AI-Powered Resume Analyzer</b></p>
+      <p>Intelligent feedback, semantic scoring, and actionable improvement suggestions powered by OpenAI. It roasts your resume so recruiters don't have to.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+      <a href="https://resumind-ebon.vercel.app/"><img src="https://img.shields.io/badge/▸_Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/Zuhaib-dev/Resumind"><img src="https://img.shields.io/badge/▸_Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔭 More Coming Soon</h3>
-      <p>I am continuously building and shipping. Always experimenting with new patterns, tools, and architectures. Check out my repos for the latest.</p>
+      <h3>🔭 What's Next?</h3>
+      <p><b>Always building, always shipping</b></p>
+      <p>My <code>git log</code> never sleeps. I'm constantly experimenting with new patterns, tools, and architectures. The next project is always the best one.</p>
       <br/>
-      <a href="https://github.com/Zuhaib-dev?tab=repositories"><img src="https://img.shields.io/badge/View_All_Projects-000?style=flat-square&logo=github&logoColor=fff" /></a>
+      <a href="https://github.com/Zuhaib-dev?tab=repositories"><img src="https://img.shields.io/badge/▸_Explore_All_Repos-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
 
-<br/><br/>
+<br/>
 
-## ✦ Metrics & Activity
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=8b949e" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaib-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaib-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="170"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuhaib-dev&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuhaib-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=8b949e" height="170"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zuhaib-dev/Zuhaib-dev/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zuhaib-dev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Zuhaib-dev/Zuhaib-dev/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="95%"/>
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+```
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║                                                                  ║
+ ║   💼  Open to fullstack roles, freelance gigs, and collabs       ║
+ ║   🧠  Always down to talk tech, architecture, or anime           ║
+ ║   ☕  Buy me a coffee and I'll debug your prod issue at 3 AM     ║
+ ║                                                                  ║
+ ╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Zuhaib-dev&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
----
+*If you've read this far, you're either a recruiter, a fellow dev, or very lost.*  
+*Either way — welcome. ⭐ Star a repo if you vibe with my work!*
 
-<div align="center">
-  <br/>
-  <p><b>Open to fullstack roles, freelance projects, and interesting collaborations.</b></p>
-  <p><i>Let's build something exceptional together.</i></p>
-  <img src="https://komarev.com/ghpvc/?username=Zuhaib-dev&color=000000&style=flat-square&label=PROFILE%20VIEWS&labelColor=ffffff"/>
-  <br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
