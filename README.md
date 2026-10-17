@@ -4,7 +4,7 @@
 
 ### Full-stack developer · Kashmir, India
 
-I build thoughtful web products from the first screen to the database. I care about clear interfaces, reliable systems, and the small details that make software feel finished.
+I work across product UI and the systems behind it. Lately that has meant healthcare workflows, real-time bookings, and developer tools for understanding what an app is doing.
 
 [Portfolio](https://www.zuhaibrashid.com/) · [LinkedIn](https://www.linkedin.com/in/zuhaib-rashid-661345318/) · [X](https://x.com/xuhaib_x9)
 
@@ -31,51 +31,45 @@ I also work with TanStack Query, Zustand, Prisma, Docker, and the usual tools th
 
 ## Selected work
 
+The projects I’m spending the most time on:
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://hms-seven-green.vercel.app/">Carepulse ↗</a></h3>
-      <p>A hospital management system for scheduling, patient tracking, and role-based workflows, with real-time updates.</p>
-      <sub>React · Node.js · MongoDB · Socket.IO</sub>
+      <h3><a href="https://github.com/Zuhaib-dev/HealOS">HealOS ↗</a></h3>
+      <p>A hospital operations platform covering patient records, appointments, staff workflows, and billing. The project is in active development.</p>
+      <sub>Next.js · React · TypeScript · Express · MongoDB · Socket.IO</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://kilamate.netlify.app/">Klimate ↗</a></h3>
-      <p>A weather dashboard with location search, forecast data, and interactive visualizations.</p>
-      <sub>React · TypeScript · TanStack Query</sub>
+      <h3><a href="https://github.com/Zuhaib-dev/rydex">Rydex ↗</a></h3>
+      <p>A multi-vehicle booking and logistics platform, with live driver matching, trip tracking, and separate rider, partner, and admin workflows.</p>
+      <sub>Next.js · TypeScript · MongoDB · Redis · Socket.IO</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://resumind-ebon.vercel.app/">Resumind ↗</a></h3>
-      <p>An AI-powered resume review tool that turns feedback into practical next steps.</p>
-      <sub>Next.js · TypeScript · OpenAI</sub>
+      <h3><a href="https://github.com/Zuhaib-dev/traceora">Traceora ↗</a></h3>
+      <p>A runtime debugging toolkit that connects UI events, network activity, errors, and backend traces in one view. Includes React, Vite, Express, and Next.js integrations.</p>
+      <sub>TypeScript · React · Vite · Node.js</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Zuhaib-dev?tab=repositories">More projects ↗</a></h3>
-      <p>Explore my repositories for experiments, recent builds, and the work behind these demos.</p>
+      <h3><a href="https://github.com/Zuhaib-dev/flourish-ui">Flourish UI ↗</a></h3>
+      <p>A UI project I’m building. The repository has the current implementation and project notes.</p>
+      <sub>UI · Components</sub>
     </td>
   </tr>
 </table>
 
-## A little about me
+## How I like to build
 
-- I enjoy taking a product from idea and data model through to a responsive, accessible interface.
-- I’m currently learning more about system design, AI integration, and deployment workflows.
-- I value readable code, useful feedback, and shipping improvements in small steps.
+- I like owning a feature end to end: the screen, API, data model, and the edge cases between them.
+- I reach for TypeScript, React/Next.js, and Node.js most often; I use MongoDB or PostgreSQL depending on the shape of the data.
+- I’m currently working on Traceora and learning more about observability and system design along the way.
 
-## GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=cbd5e1&rank_icon=github" height="165" alt="GitHub profile statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaib-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=cbd5e1" height="165" alt="Most used programming languages" />
-
-</div>
+## Around the web
 
 <div align="center">
 
-Open to interesting projects and kind people who like building things.
-
-[Say hello on LinkedIn](https://www.linkedin.com/in/zuhaib-rashid-661345318/) · [Browse my work](https://www.zuhaibrashid.com/)
+[GitHub repositories](https://github.com/Zuhaib-dev?tab=repositories) · [Portfolio](https://www.zuhaibrashid.com/) · [LinkedIn](https://www.linkedin.com/in/zuhaib-rashid-661345318/)
 
 </div>
