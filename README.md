@@ -66,6 +66,33 @@ The projects I’m spending the most time on:
 - I reach for TypeScript, React/Next.js, and Node.js most often; I use MongoDB or PostgreSQL depending on the shape of the data.
 - I’m currently working on Traceora and learning more about observability and system design along the way.
 
+## GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/Zuhaib-dev?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-dev&show_icons=true&hide_border=true&bg_color=0b1220&title_color=7dd3fc&icon_color=818cf8&text_color=cbd5e1&rank_icon=github" height="165" alt="GitHub profile statistics" />
+</a>
+<a href="https://github.com/Zuhaib-dev?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaib-dev&layout=compact&hide_border=true&bg_color=0b1220&title_color=7dd3fc&text_color=cbd5e1" height="165" alt="Most used programming languages" />
+</a>
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Zuhaib-dev&hide_border=true&background=0b1220&ring=7dd3fc&fire=818cf8&currStreakLabel=7dd3fc&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=cbd5e1&dates=64748b" height="165" alt="GitHub contribution streak" />
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zuhaib-dev/Zuhaib-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zuhaib-dev/Zuhaib-dev/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Zuhaib-dev/Zuhaib-dev/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake moving across my GitHub contribution graph" />
+</picture>
+
+<sub>Contribution animation refreshes daily.</sub>
+
+</div>
+
 ## Around the web
 
 <div align="center">
