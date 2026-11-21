@@ -93,10 +93,20 @@ The projects I’m spending the most time on:
 
 </div>
 
+## LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/yN1fTR7Ffv/">
+  <img src="https://leetcard.jacoblin.cool/yN1fTR7Ffv?theme=dark&font=baloo_2&ext=heatmap&border=0&radius=4&bg_color=0b1220&title_color=7dd3fc&text_color=cbd5e1" alt="LeetCode stats" />
+</a>
+
+</div>
+
 ## Around the web
 
 <div align="center">
 
-[GitHub repositories](https://github.com/Zuhaib-dev?tab=repositories) · [Portfolio](https://www.zuhaibrashid.com/) · [LinkedIn](https://www.linkedin.com/in/zuhaib-rashid-661345318/)
+[GitHub repositories](https://github.com/Zuhaib-dev?tab=repositories) · [Portfolio](https://www.zuhaibrashid.com/) · [LinkedIn](https://www.linkedin.com/in/zuhaib-rashid-661345318/) · [LeetCode](https://leetcode.com/u/yN1fTR7Ffv/)
 
 </div>
